@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catherine Maria Jaison</h1>
-<h3 align="center">An enthusiastic computer science student from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2340215&label=Profile%20views&color=0e75b6&style=flat" alt="2340215" /> </p>
+<h3 align="center">An enthusiastic computer science and statistics student from India</h3>
 
 - 🌱 I’m currently learning **Android Studio**
 
